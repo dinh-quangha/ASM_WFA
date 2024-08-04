@@ -1,0 +1,19 @@
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\obj\Debug\net8.0-windows\Tinhtiennuoc WFA.csproj.GenerateResource.cache
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\obj\Debug\net8.0-windows\Tinhtiennuoc WFA.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\obj\Debug\net8.0-windows\Tinhtiennuoc WFA.AssemblyInfoInputs.cache
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\obj\Debug\net8.0-windows\Tinhtiennuoc WFA.AssemblyInfo.cs
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\obj\Debug\net8.0-windows\Tinhtiennuoc WFA.csproj.CoreCompileInputs.cache
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\bin\Debug\net8.0-windows\Tinhtiennuoc WFA.exe
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\bin\Debug\net8.0-windows\Tinhtiennuoc WFA.deps.json
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\bin\Debug\net8.0-windows\Tinhtiennuoc WFA.runtimeconfig.json
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\bin\Debug\net8.0-windows\Tinhtiennuoc WFA.dll
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\bin\Debug\net8.0-windows\Tinhtiennuoc WFA.pdb
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\obj\Debug\net8.0-windows\Tinhtiennuoc WFA.dll
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\obj\Debug\net8.0-windows\refint\Tinhtiennuoc WFA.dll
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\obj\Debug\net8.0-windows\Tinhtiennuoc WFA.pdb
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\obj\Debug\net8.0-windows\Tinhtiennuoc WFA.genruntimeconfig.cache
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\obj\Debug\net8.0-windows\ref\Tinhtiennuoc WFA.dll
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\obj\Debug\net8.0-windows\Tinhtiennuoc_WFA.Properties.Resources.resources
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\obj\Debug\net8.0-windows\Tinhtiennuoc_WFA.Bill.resources
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\obj\Debug\net8.0-windows\Tinhtiennuoc_WFA.Information.resources
+D:\C sharp\Tinhtiennuoc WFA\Tinhtiennuoc WFA\obj\Debug\net8.0-windows\Tinhtiennuoc_WFA.Loggin.resources

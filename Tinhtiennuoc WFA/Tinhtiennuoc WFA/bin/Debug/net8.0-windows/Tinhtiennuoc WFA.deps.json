@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tinhtiennuoc WFA/1.0.0": {
+        "runtime": {
+          "Tinhtiennuoc WFA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tinhtiennuoc WFA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
